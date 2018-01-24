@@ -14,6 +14,10 @@ https://c9.io/kodent?type=shared
 
 Вам будет доступен проект js-study1, расшаренный из аккаунта gossoudarev
 
+(gossoudarev/js-study1
+
+nodejs workspace)
+
 и просматриваемый в интернете как https://js-study1-gossoudarev.c9users.io
 
 # Зависимости в экосистеме JavaScript
