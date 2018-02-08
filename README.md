@@ -31,5 +31,3 @@ https://c9.io/kodent?type=shared
 Вам будут доступны проекты js-study1 и php-study1, расшаренные из аккаунта gossoudarev
 
 там есть папка mag - в ней вы можете создавать свои папки
-
-и просматриваемый в интернете как https://js-study1-gossoudarev.c9users.io
